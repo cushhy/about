@@ -6,4 +6,4 @@ Work with HTML / SCSS / CSS / JS / Gulp
 
 <b> 💻VK: https://vk.com/nftxanima </b>
 
-<b> 💻Twitter: https://twitter.com/cuwynft </b>
+<b> 💻Twitter: https://twitter.com/nftxanima </b>
